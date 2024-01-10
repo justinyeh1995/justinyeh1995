@@ -1,7 +1,8 @@
 ### About Me 👋
 - 🏫 I'm pursuing my Master's Degree in Computer Science at Vanderbilt University
 - 🔭 Currently working on Visualizing CybORG, a reinforcement learning environment, at Institute for Software Integrated Systems.
-- 🌱 I’m currently learning more about Full-Stack Web Development. Here's a web-based solitaire game that I recently built! [Link](https://solitairejs.com/)
+- 🌱 I’m currently learning more about Full-Stack Web Development.
+- 🎮 Here's a web-based solitaire game that I recently built! [Link](https://solitairejs.com/)
 - 👯 I’m looking to collaborate on building interesting ideas through browsers.
 
 ### Tech Stack
