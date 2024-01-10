@@ -7,7 +7,7 @@
 ### Tech Stack
 - 💻 Python | JavaScript | React | NodeJS
 - 🥇 Web Development, Visualization
-- 🧰 AWS | Linux | Git | Docker 
+- 🧰 AWS | Linux | Git | Docker | Jenkins
 
 <!--
 **justinyeh1995/justinyeh1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
