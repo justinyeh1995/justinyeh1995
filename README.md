@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on building interesting ideas through browsers.
 
 ### Tech Stack
-- 💻 Python | JavaScript | React | NodeJS
+- 💻 Python | JavaScript | Typescript | Java | React | NodeJS | Shell Scripting 
 - 🥇 Web Development, Visualization
 - 🧰 AWS | Linux | Git | Docker | Jenkins
 
