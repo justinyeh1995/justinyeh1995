@@ -3,7 +3,7 @@
 - 🔭 Currently working at the Institute for Software Integrated Systems, Vanderbilt University.
 - 🌱 I’m currently learning more about Full-Stack Web Development.
 - 🎮 Here's a web-based solitaire game that I recently built! [Link](https://solitairejs.com/)
-- 👯 I’m looking to collaborate on building interesting ideas through browsers.
+- 👯 I’m looking to collaborate on building interesting ideas through software development.
 
 ### Tech Stack
 - 💻 Python | JavaScript | Typescript | Java | React | NodeJS | Shell Scripting 
