@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning more about Full-Stack Web Development.
 - 🎮 Here's a web-based solitaire game that I recently built! [Link](https://solitairejs.com/)
 - 👯 I’m looking to collaborate on building interesting ideas through software development.
+- www.chihtingyeh.com
 
 ### Tech Stack
 - 💻 Python | JavaScript | Typescript | Java | React | NodeJS | Shell Scripting 
