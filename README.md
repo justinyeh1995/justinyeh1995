@@ -7,9 +7,9 @@
 - www.justinleafyeh.com
 
 ### Tech Stack
-- 💻 Python | JavaScript | Typescript | Java | React | NodeJS | Shell Scripting 
-- 🥇 Web Development, Visualization
-- 🧰 AWS | Linux | Git | Docker | Jenkins
+- 💻 Python | Typescript | Java | C++ | Shell Scripting 
+- 🥇 Web Development | React | Nextjs | FastAPI | Django | Spring Boot | Express
+- 🧰 AWS | Linux | Git | Docker | Jenkins | Terraform
 
 <!--
 **justinyeh1995/justinyeh1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
