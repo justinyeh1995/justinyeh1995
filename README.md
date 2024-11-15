@@ -1,14 +1,14 @@
 ### About Me 👋
-- 🏫 I'm pursuing my Master's Degree in Computer Science at Vanderbilt University
-- 🔭 Currently working at the Institute for Software Integrated Systems, Vanderbilt University.
-- 🌱 I’m currently learning more about Full-Stack Web Development.
+- 🏫 I finished my Master's Degree in Computer Science at Vanderbilt University this May.
+- 🔭 Worked at the Institute for Software Integrated Systems, Vanderbilt University.
+- 🌱 I’m actively learning more about Backend Development.
 - 🎮 Here's a web-based solitaire game that I recently built! [Link](https://solitairejs.com/)
 - 👯 I’m looking to collaborate on building interesting ideas through software development.
 - www.justinleafyeh.com
 
 ### Tech Stack
 - 💻 Python | Typescript | Java | C++ | Shell Scripting 
-- 🥇 Web Development | React | Nextjs | FastAPI | Django | Spring Boot | Express
+- 🥇 Web Development |  FastAPI | Django | Spring Boot | Express | React | Nextjs |
 - 🧰 AWS | Linux | Git | Docker | Jenkins | Terraform
 
 <!--
