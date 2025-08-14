@@ -9,7 +9,7 @@
 
 ### Tech Stack
 - 💻 Go | Python | Typescript | Java | SQL | Shell Scripting 
-- 🧰 GCP | Linux | Git | Docker | Kubernetes | Terraform
+- 🧰 GCP | Docker & Kubernetes | Terraform
 
 <!--
 **justinyeh1995/justinyeh1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
