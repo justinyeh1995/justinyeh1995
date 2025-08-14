@@ -1,7 +1,7 @@
 ### About Me 👋
-- 🏫 I finished my Master's Degree in Computer Science at Vanderbilt University in May 2024.
 - 🙋 Working as a cloud engineer at Cacafly Cloud AI+ 
 - 🔭 Worked at the Audience11 & Institute for Software Integrated Systems, Vanderbilt University.
+- 🏫 I finished my Master's Degree in Computer Science at Vanderbilt University in May 2024.
 - 🌱 I’m actively learning more about Backend Development.
 - 🎮 Here's a web-based solitaire game that I recently built! [Link](https://solitairejs.com/)
 - 👯 I’m looking to collaborate on building interesting ideas through software development.
