@@ -8,7 +8,7 @@
 - www.justinleafyeh.com
 
 ### Tech Stack
-- 💻 Go | Python | Typescript | Java | C++ | Shell Scripting 
+- 💻 Go | Python | Typescript | Java | SQL | Shell Scripting 
 - 🧰 GCP | Linux | Git | Docker | Kubernetes | Terraform
 
 <!--
