@@ -3,7 +3,6 @@
 - 🔭 Worked at the Audience11 & Institute for Software Integrated Systems, Vanderbilt University.
 - 🏫 I finished my Master's Degree in Computer Science at Vanderbilt University in May 2024.
 - 🌱 I’m actively digging more about Backend Development and AI infra.
-- www.justinleafyeh.com
 
 ### Tech Stack
 - 💻 Go | Python | Typescript | Java | SQL | Shell Scripting 
