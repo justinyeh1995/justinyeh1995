@@ -21,6 +21,22 @@
 ![Ray](https://img.shields.io/badge/Ray-007AFF.svg?style=for-the-badge&logo=ray&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=justinyeh1995&theme=github_dark_dimmed&show_icons=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinyeh1995&theme=github_dark_dimmed" alt="GitHub Streak" />
+      </td>
+    </tr>
+    
+  </table>
+</div>
+
 <!--
 **justinyeh1995/justinyeh1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
