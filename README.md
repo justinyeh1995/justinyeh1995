@@ -1,5 +1,5 @@
 ### About Me 👋
-- 🙋 Working as a cloud engineer at Cacafly Cloud AI+ 
+- 🙋 Working as a software engineer at Cacafly Cloud AI+ 
 - 🔭 Worked at the Audience11 & Institute for Software Integrated Systems, Vanderbilt University.
 - 🏫 I finished my Master's Degree in Computer Science at Vanderbilt University in May 2024.
 - 🌱 I’m actively digging more about Backend Development and AI infra.
